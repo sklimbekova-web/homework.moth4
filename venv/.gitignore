@@ -1,0 +1,6 @@
+venv
+media
+main
+.vscode
+templates
+db.sqlite3
